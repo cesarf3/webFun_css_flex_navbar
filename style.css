@@ -14,7 +14,7 @@
 }
 
 .center-item {
-    background-color: rgb(235, 237, 240);
+    background-color: rgb(249,	227,	184	);
     min-height: 70px;
     width: 70px;
 }
@@ -22,11 +22,18 @@
 .dojo-bar {
     background-color: rgb(103, 151, 234);
     display: flex;
-    justify-content:space-around;
+    justify-content:flex-start;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
+    flex-direction: row;
     margin: 20px;
     
+}
+
+.letter-head {
+    display: flex;
+    
+    align-items: center;
 }
 
 h1, li {

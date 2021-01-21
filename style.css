@@ -29,7 +29,7 @@
     
 }
 
-h1 {
+h1, li {
     color: white;
 }
 
@@ -38,10 +38,6 @@ img {
     padding-bottom: 10px;
     height: 70px;
     width: 90px;
-}
-
-li{
-    color: white;
 }
 
 a{

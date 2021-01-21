@@ -22,7 +22,7 @@
 .dojo-bar {
     background-color: rgb(103, 151, 234);
     display: flex;
-    justify-content: space-evenly;
+    justify-content:space-around;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     margin: 20px;

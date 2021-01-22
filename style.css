@@ -4,7 +4,7 @@
 }
 
 .center-box {
-    background-color: rgb(25, 12, 126);
+    background-color: rgb(25,12,126);
     min-height: 200px;
     width: auto;
     margin: 30px;
@@ -14,26 +14,20 @@
 }
 
 .center-item {
-    background-color: rgb(249,	227,	184	);
+    background-color: rgb(249,227,184);
     min-height: 70px;
     width: 70px;
 }
 
 .dojo-bar {
-    background-color: rgb(103, 151, 234);
+    background-color: rgb(103,151,234);
     display: flex;
-    justify-content:flex-start;
+    justify-content:space-between;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
     flex-direction: row;
     margin: 20px;
     
-}
-
-.letter-head {
-    display: flex;
-    
-    align-items: center;
 }
 
 h1, li {

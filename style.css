@@ -25,13 +25,12 @@
     justify-content:space-between;
     align-items: center;
     font-family: 'Montserrat', sans-serif;
-    flex-direction: row;
     margin: 20px;
-    
 }
 
 h1, li {
     color: white;
+    flex-grow: 1;
 }
 
 img {
